@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnhomeloan"
+        android:title="Home Loan"
+        android:icon="@drawable/baseline_home_24"
+        />
+    <item
+        android:id="@+id/mncarloan"
+        android:title = "Car Loan"
+        android:icon="@drawable/baseline_electric_car_24"
+        />
+    <item
+        android:id="@+id/mnpersonalloan"
+        android:title="Personal Loan"
+        android:icon="@drawable/baseline_monetization_on_24"/>
+
+    <item
+        android:id="@+id/mnbusinessloan"
+        android:title="Business Loan"
+        android:icon="@drawable/baseline_business_24"
+        />
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"/>
+
+</menu>

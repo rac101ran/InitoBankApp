@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnwithdrawrmoney"
+        android:title="Withdraw money"
+        />
+    <item
+        android:id="@+id/mnaddmoney"
+        android:title = "Add Money"
+        />
+    <item
+        android:id="@+id/mncheckbalance"
+        android:title="Check balance"/>
+    <item
+        android:id="@+id/atmcard"
+        android:title="ATM Card"
+        android:icon="@drawable/ccard"
+        />
+
+    <item
+        android:id="@+id/mnpassbook"
+        android:title="My Passbook"/>
+
+    <item
+        android:id="@+id/mnaccountdetails"
+        android:title="Account Details"/>
+
+
+    <item
+        android:id="@+id/mnreferralcode2"
+        android:title="Get referral Code"
+        />
+
+    <item
+        android:id="@+id/faq"
+        android:title="FAQ"/>
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"/>
+
+</menu>

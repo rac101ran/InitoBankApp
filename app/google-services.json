@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652387833049",
+    "project_id": "initobank",
+    "storage_bucket": "initobank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652387833049:android:67e0789708dc272849dac8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652387833049-coqs661tqo38rrphjm2bua3ehc2233t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "1e18ccbae5c319f810d68d4d2f71cc8f8f698c7f"
+          }
+        },
+        {
+          "client_id": "652387833049-4lcm6gokiu3i9nmkuq195gjm36l2hefu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJuuWXcum2ZpAXercZShoXL-xcAxqh9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652387833049-4lcm6gokiu3i9nmkuq195gjm36l2hefu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

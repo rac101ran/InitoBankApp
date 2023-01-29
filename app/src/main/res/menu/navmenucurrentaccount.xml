@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/currentmenubalancechk"
+        android:title="Balance Check"
+        />
+    <item
+        android:id="@+id/currentmenutransfermoney"
+        android:title="Transfer Money"/>
+
+    <item
+        android:id="@+id/passbookid"
+        android:title="View Passbook"/>
+
+    <item
+        android:id="@+id/mnreferralcode"
+        android:title="Get referral Code"
+        />
+
+</menu>
